@@ -1,0 +1,16 @@
+C:\Users\chukt\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.exe
+C:\Users\chukt\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.deps.json
+C:\Users\chukt\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.json
+C:\Users\chukt\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.dev.json
+C:\Users\chukt\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.dll
+C:\Users\chukt\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\Task4.pdb
+C:\Users\chukt\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\Bogus.dll
+C:\Users\chukt\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.csprojAssemblyReference.cache
+C:\Users\chukt\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfoInputs.cache
+C:\Users\chukt\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfo.cs
+C:\Users\chukt\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.csproj.CoreCompileInputs.cache
+C:\Users\chukt\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.csproj.CopyComplete
+C:\Users\chukt\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.dll
+C:\Users\chukt\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.pdb
+C:\Users\chukt\source\repos\Task4\Task4\obj\Debug\netcoreapp3.1\Task4.genruntimeconfig.cache
+C:\Users\chukt\source\repos\Task4\Task4\bin\Debug\netcoreapp3.1\CsvHelper.dll

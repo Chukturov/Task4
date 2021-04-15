@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NcaFLoayIu/fi6kvQUvXpfmWV7u6/vWJ5ceVH5slkXi+Y/5WnJhaHJ2p3tk6bvCrZooB8e8+NwMZFLtsH1/tQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chukt\\source\\repos\\Task4\\Task4\\Task4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chukt\\.nuget\\packages\\bogus\\33.0.2\\bogus.33.0.2.nupkg.sha512",
+    "C:\\Users\\chukt\\.nuget\\packages\\csvhelper\\26.1.0\\csvhelper.26.1.0.nupkg.sha512",
+    "C:\\Users\\chukt\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Task4": {
+      "commandName": "Project",
+      "commandLineArgs": "100 ru_RU"
+    }
+  }
+}
